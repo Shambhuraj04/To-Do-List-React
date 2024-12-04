@@ -18,7 +18,10 @@ function App() {
       });
     });
   }
+<<<<<<< HEAD
   const year = new Date().getFullYear();
+=======
+>>>>>>> 1c282d32fdce0736002f5eddaf3210a75e278287
 
   return (
     <div className="container">

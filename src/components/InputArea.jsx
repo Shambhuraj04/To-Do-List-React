@@ -7,7 +7,10 @@ function InputArea(props) {
     const newValue = event.target.value;
     setInputText(newValue);
   }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 1c282d32fdce0736002f5eddaf3210a75e278287
   return (
     <div className="form">
       <input onChange={handleChange} type="text" value={inputText} />
